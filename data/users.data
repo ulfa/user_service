@@ -1,0 +1,5 @@
+{tables,
+    [{users,
+         [{record_name, users},
+          {attributes,[email, forname, surname, password]}]}]}.
+{users,"u@mail.com","ulf", "angermannn", "secret"}.
